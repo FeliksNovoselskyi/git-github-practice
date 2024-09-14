@@ -1,0 +1,5 @@
+console.log('create database')
+console.log('initialize database')
+console.log('update database')
+console.log('update database 2')
+console.log('update database 3')
