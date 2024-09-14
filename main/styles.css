@@ -3,3 +3,9 @@ h1 {
     font-size: 50px;
     box-shadow: 0 0 20px black;
 }
+
+p {
+    font-size: 20px;
+    color: orange;
+    text-decoration: underline;
+}
