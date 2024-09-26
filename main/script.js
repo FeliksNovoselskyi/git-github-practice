@@ -10,3 +10,7 @@ console.log('23')
 console.log('64')
 
 console.log('222222222222')
+
+console.log('1')
+console.log('2')
+console.log('3')
